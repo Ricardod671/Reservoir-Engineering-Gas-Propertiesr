@@ -1,0 +1,7 @@
+name: py39
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+prefix: /home/ricardod671/anaconda3/envs/py39
