@@ -1,0 +1,4 @@
+# I don't whan to share zip, png and pyc in my repository.
+*.zip
+*.png
+*.pyc
