@@ -45,6 +45,6 @@ Contributions are always **welcome and recommended**!
 Apache 2.0
 
 ## Contact
-Name: Ricardo Félix Díaz López.
-Mail: ricardod671@gmail.com
+- Name: Ricardo Félix Díaz López.
+- Mail: ricardod671@gmail.com
 
